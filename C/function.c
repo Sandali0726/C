@@ -6,23 +6,6 @@ int main(){
     show();
     printf("%d",add(2,3));  // calling
     printf("%d",fact(5));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
 int add(int a, int b){
